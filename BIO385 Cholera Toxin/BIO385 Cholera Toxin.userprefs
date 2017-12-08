@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\tagon.js">
+    <Files>
+      <File FileName="Assets\taganim.js" Line="32" Column="15" />
+      <File FileName="Assets\scripts\StartWaitOn.js" Line="3" Column="1" />
+      <File FileName="Assets\scripts\TagWaitOn.js" Line="1" Column="1" />
+      <File FileName="Assets\tagon.js" Line="15" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

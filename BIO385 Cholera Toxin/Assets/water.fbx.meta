@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: e8c408b05a26c6d43a72f28c4702f345
+timeCreated: 1512415416
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_15
+    100002: CINEMA_4D_Editor
+    100004: doublebonds_15
+    100006: Extrude_21
+    100008: H_15
+    100010: MSMS_MOLMTO_ideal_6_1_2
+    100012: MSMS_MOLMTO_ideal_6_2
+    100014: MTO_ideal_6_b_ballsbasesphere_4
+    100016: MTO_ideal_6_b_ballsbasesphere_5
+    100018: MTO_ideal_6_b_ballsbasesphere_6
+    100020: MTO_ideal_6_b_sticks_o_3
+    100022: MTO_ideal_6_b_sticks_o_4
+    100024: MTOmiddle
+    100026: N_15
+    100028: O_15
+    100030: P_15
+    100032: singlebonds_15
+    100034: skins_20
+    100036: //RootNode
+    400000: C_15
+    400002: CINEMA_4D_Editor
+    400004: doublebonds_15
+    400006: Extrude_21
+    400008: H_15
+    400010: MSMS_MOLMTO_ideal_6_1_2
+    400012: MSMS_MOLMTO_ideal_6_2
+    400014: MTO_ideal_6_b_ballsbasesphere_4
+    400016: MTO_ideal_6_b_ballsbasesphere_5
+    400018: MTO_ideal_6_b_ballsbasesphere_6
+    400020: MTO_ideal_6_b_sticks_o_3
+    400022: MTO_ideal_6_b_sticks_o_4
+    400024: MTOmiddle
+    400026: N_15
+    400028: O_15
+    400030: P_15
+    400032: singlebonds_15
+    400034: skins_20
+    400036: //RootNode
+    2300000: Extrude_21
+    2300002: MSMS_MOLMTO_ideal_6_1_2
+    2300004: MSMS_MOLMTO_ideal_6_2
+    2300006: MTO_ideal_6_b_ballsbasesphere_4
+    2300008: MTO_ideal_6_b_ballsbasesphere_5
+    2300010: MTO_ideal_6_b_ballsbasesphere_6
+    2300012: MTO_ideal_6_b_sticks_o_3
+    2300014: MTO_ideal_6_b_sticks_o_4
+    3300000: Extrude_21
+    3300002: MSMS_MOLMTO_ideal_6_1_2
+    3300004: MSMS_MOLMTO_ideal_6_2
+    3300006: MTO_ideal_6_b_ballsbasesphere_4
+    3300008: MTO_ideal_6_b_ballsbasesphere_5
+    3300010: MTO_ideal_6_b_ballsbasesphere_6
+    3300012: MTO_ideal_6_b_sticks_o_3
+    3300014: MTO_ideal_6_b_sticks_o_4
+    4300000: Extrude_21
+    4300002: MSMS_MOLMTO_ideal_6_1_2
+    4300004: MSMS_MOLMTO_ideal_6_2
+    4300006: MTO_ideal_6_b_sticks_o_3
+    4300008: MTO_ideal_6_b_sticks_o_4
+    4300010: MTO_ideal_6_b_ballsbasesphere_4
+    4300012: MTO_ideal_6_b_ballsbasesphere_5
+    4300014: MTO_ideal_6_b_ballsbasesphere_6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
